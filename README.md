@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BryceSh
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Java, Pythod, C#, and JavaScript
+- 🌱 I’m currently learning Java, Pythod, C, C#, and JavaScript
 - 📫 You can reach me by PM on discord **Bryce#4538** 
